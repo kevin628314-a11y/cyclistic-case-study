@@ -1,0 +1,41 @@
+member_casual,station_rank,station_name,n_rides_by_group,casual_share_pct,lat,lng
+casual,1,Navy Pier,53862,76.9,41.89228,-87.61204
+casual,2,DuSable Lake Shore Dr & Monroe St,31888,78.85,41.88096,-87.61674
+casual,3,Michigan Ave & Oak St,22258,61.86,41.90096,-87.62378
+casual,4,DuSable Lake Shore Dr & North Blvd,19343,56.17,41.91172,-87.6268
+casual,5,Millennium Park,17893,67.75,41.88103,-87.62408
+casual,6,Shedd Aquarium,16749,81.88,41.86723,-87.61536
+casual,7,Theater on the Lake,15979,56.88,41.92628,-87.63084
+casual,8,Dusable Harbor,14452,72.14,41.88698,-87.61281
+casual,9,Michigan Ave & 8th St,10829,63.25,41.87277,-87.62398
+casual,10,Montrose Harbor,10347,57.07,41.96398,-87.63818
+casual,11,Adler Planetarium,10260,72.38,41.8661,-87.60727
+casual,12,Field Museum,10072,81.0,41.86531,-87.61787
+casual,13,Clark St & Lincoln Ave,9617,39.52,41.91569,-87.6346
+casual,14,Clark St & Armitage Ave,9475,38.59,41.91831,-87.63628
+casual,15,Wells St & Concord Ln,9456,32.81,41.91213,-87.63466
+casual,16,New St & Illinois St,8855,40.83,41.89084,-87.61862
+casual,17,Michigan Ave & Lake St,8667,42.0,41.88602,-87.6244
+casual,18,Indiana Ave & Roosevelt Rd,8537,43.44,41.86789,-87.62304
+casual,19,Wabash Ave & Grand Ave,8516,39.32,41.89147,-87.62676
+casual,20,Michigan Ave & Washington St,8392,41.91,41.88398,-87.62468
+member,1,Canal St & Madison St,22680,22.32,41.88241,-87.63976
+member,2,State St & Chicago Ave,21359,26.2,41.89662,-87.62858
+member,3,Clinton St & Jackson Blvd,19367,20.52,41.87832,-87.64098
+member,4,Wells St & Concord Ln,19362,32.81,41.91213,-87.63466
+member,5,Wells St & Elm St,19335,29.42,41.90322,-87.63434
+member,6,Clinton St & Madison St,19247,25.13,41.8822,-87.64117
+member,7,Wells St & Huron St,17892,29.45,41.89479,-87.63438
+member,8,Clark St & Elm St,17373,31.46,41.90296,-87.63131
+member,9,Clinton St & Washington Blvd,17244,16.16,41.88318,-87.64119
+member,10,Wells St & Hubbard St,16650,31.37,41.88991,-87.63427
+member,11,Navy Pier,16184,76.9,41.89228,-87.61204
+member,12,University Ave & 57th St,16027,24.17,41.79148,-87.59986
+member,13,Desplaines St & Kinzie St,15898,28.34,41.88871,-87.64445
+member,14,Kingsbury St & Erie St,15640,22.83,41.89391,-87.64174
+member,15,DuSable Lake Shore Dr & North Blvd,15094,56.17,41.91172,-87.6268
+member,16,Clark St & Armitage Ave,15075,38.59,41.91831,-87.63628
+member,17,McClurg Ct & Ohio St,14744,33.87,41.8926,-87.61729
+member,18,Clark St & Lincoln Ave,14715,39.52,41.91569,-87.6346
+member,19,Canal St & Adams St,14638,21.8,41.87926,-87.63991
+member,20,Dearborn Pkwy & Delaware Pl,14578,30.39,41.89897,-87.62991

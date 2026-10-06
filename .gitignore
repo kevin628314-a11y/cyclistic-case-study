@@ -1,0 +1,13 @@
+# Raw data and database: too large, and can be rebuilt from the raw CSV files
+data/*
+!data/processed/
+*.duckdb
+*.duckdb.wal
+
+# Python virtual environment and cache files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
